@@ -1,5 +1,7 @@
 # DIKWP RefractoRehab OS
 
+Created by Yucong Duan (段玉聪).
+
 High-myopia + astigmatism + presbyopia vision rehabilitation planning system.
 
 This project is an offline, GitHub-ready, non-prescriptive clinical education and rehabilitation planning tool. It helps patients, optometrists, ophthalmologists, and vision rehabilitation teams organize visual task needs, high-myopia safety surveillance, optical-option questions, low-vision adaptations, and clinician handoff notes.
